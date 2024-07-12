@@ -116,10 +116,10 @@
 
           <div class="page-banner-default">
             <h1 class="page-banner-heading">
-              'Hello!'
+              {{ heading | default: page.title | escape }}
             </h1>
             <h2 class="page-banner-subheading">
-              'Welcome to my blog!'
+              {{ subheading | default: page.subtitle | escape }}
             </h2>
           </div>
 
@@ -128,4 +128,3 @@
     </div>
   </section>
 {%- endif -%}
-
