@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://jeffreytse.github.io/jekyll-theme-yat">
-    <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
+    <img src="https://github.com/Dev-Huang1/Blog/workflows/Github%20Pages/badge.svg"
       alt="Github Pages" />
   </a>
 
