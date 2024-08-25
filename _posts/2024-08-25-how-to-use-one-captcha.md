@@ -46,3 +46,14 @@ window.yaContextCb.push(() => {
 One Captcha v1 has been disabled by us because its protection level is not very secure.
 
 [Report problem](mailto:devhuang000@outlook.com) | [Wiki](https://github.com/Dev-Huang1/Air-Captcha/wiki)
+
+<!-- Yandex.RTB R-A-11722626-5 -->
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-11722626-5",
+        "type": "floorAd",
+        "platform": "touch"
+    })
+})
+</script>
