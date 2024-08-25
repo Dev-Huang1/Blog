@@ -30,6 +30,17 @@ sidebar: []
 <script src="https://captcha.xyehr.cn/captcha/v2/api.js" defer></script>
 ```
 
+<!-- Yandex.RTB R-A-11722626-1 -->
+<div id="yandex_rtb_R-A-11722626-1"></div>
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-11722626-1",
+        "renderTo": "yandex_rtb_R-A-11722626-1"
+    })
+})
+</script>
+
 ## v1 version:
 
 One Captcha v1 has been disabled by us because its protection level is not very secure.
@@ -38,7 +49,7 @@ One Captcha v1 has been disabled by us because its protection level is not very 
 
 ### Share this post:
 
-<p align="left">
+<p>
 <a href="https://x.com/" target="blank"><img src="https://cdn.xyehr.cn/images/svg/twitter.svg" height="40" width="50" alt="X"></a>
 <a href="https://reddit.com/" target="blank"><img src="https://cdn.xyehr.cn/images/svg/reddit.svg" height="40" width="50" alt="Reddit"></a>
 <a href="https://linkedin.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/linkedin.svg" height="40" width="50" alt="LinkedIn"></a>
