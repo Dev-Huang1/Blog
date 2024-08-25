@@ -47,13 +47,14 @@ One Captcha v1 has been disabled by us because its protection level is not very 
 
 [Report problem](mailto:devhuang000@outlook.com) | [Wiki](https://github.com/Dev-Huang1/Air-Captcha/wiki)
 
-<!-- Yandex.RTB R-A-11722626-5 -->
+<!-- Yandex.RTB R-A-11722626-6 -->
+<div id="yandex_rtb_R-A-11722626-6"></div>
 <script>
 window.yaContextCb.push(() => {
     Ya.Context.AdvManager.render({
-        "blockId": "R-A-11722626-5",
-        "type": "floorAd",
-        "platform": "touch"
+        "blockId": "R-A-11722626-6",
+        "renderTo": "yandex_rtb_R-A-11722626-6",
+        "type": "feed"
     })
 })
 </script>
