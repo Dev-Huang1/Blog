@@ -15,16 +15,12 @@ top: 2
 sidebar: []
 ---
 
-## v2 version:
+## v3 version
 
-**First, add this code to the <body> tag of your HTML file.**
-
-```html
-<div id="one-captcha"></div>
-<button id="submit-button" disabled>Submit</button>
-```
-
-**Then, add this code below the previous code.**
+> [!NOTE]\
+> The v3 Developer Beta version is under development, so stay tuned.
+>
+> Try v3-db version now -> [Click Here](https://captcha.xyehr.cn/test)
 
 ```html
 <script src="https://captcha.xyehr.cn/captcha/v2/api.js" defer></script>
@@ -40,10 +36,6 @@ window.yaContextCb.push(() => {
     })
 })
 </script>
-
-## v1 version:
-
-One Captcha v1 has been disabled by us because its protection level is not very secure.
 
 [Report problem](mailto:devhuang000@outlook.com) | [Wiki](https://github.com/Dev-Huang1/One-Captcha/wiki)
 
