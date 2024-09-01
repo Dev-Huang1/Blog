@@ -20,7 +20,7 @@ sidebar: []
 > [!NOTE]\
 > The v3 Developer Beta version is under development, so stay tuned.
 >
-> Try v3-db version now -> [Click Here](https://captcha.xyehr.cn/test)
+> Try v3-db version now -> [Click Here](https://captcha.xyehr.cn/test.html)
 
 ```html
 <script src="https://captcha.xyehr.cn/captcha/v2/api.js" defer></script>
